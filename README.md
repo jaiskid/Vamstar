@@ -1,2 +1,2 @@
-# Vamster
+# Vamstar
 Assignment
